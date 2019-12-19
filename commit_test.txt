@@ -1,0 +1,4 @@
+This is test of commit . 
+
+ver.1
+matsuzaki
